@@ -1,0 +1,6 @@
+[submodule "cloud-conf"]
+	path = cloud-conf
+	url = https://github.com/ukanwat/cloud-conf.git
+[submodule "cloud-node"]
+	path = cloud-node
+	url = https://github.com/ukanwat/cloud-node.git
