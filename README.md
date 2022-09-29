@@ -1,1 +1,1 @@
-##### Monorepo containing different projects for deploying serverless container platform
+##### Repository containing different submodules for deploying serverless container platform
